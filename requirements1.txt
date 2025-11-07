@@ -1,0 +1,15 @@
+collections
+gymnasium
+itertools
+math
+matplotlib==3.6.3
+numpy==1.24.0
+pandas==1.5.3
+random
+seaborn==0.11.2
+sklearn
+subprocess
+sys
+torch==2.5.1+cpu
+tqdm==4.64.0
+typing
